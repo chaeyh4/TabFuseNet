@@ -28,4 +28,3 @@ This work was published in:
 * **Multi-Modal Fusion:** Integrates numerical and categorical features effectively using a novel fusion strategy.
 * **Enhanced Tabular Learning:** Achieves superior performance compared to existing methods on various tabular datasets.
 * **Robustness:** Demonstrates improved generalization capabilities.
-* **Interpretability (Optional/If applicable):** (Add if the paper discusses interpretability, otherwise remove this point)
