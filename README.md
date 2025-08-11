@@ -11,16 +11,16 @@ This work was published in:
 > **Citation:**
 >
 > ```bibtex
-> @INPROEEDINGS{11088185,
->   author={Ahn, Jeonghwan and Shin, Hyeong-cheol},
->   booktitle={2024 IEEE International Conference on Big Data and Smart Computing (BigComp)},
->   title={TabFuseNet: Multi-Modal Fusion for Tabular Data Analysis},
->   year={2024},
->   volume={},
->   number={},
->   pages={328-333},
->   doi={10.1109/BigComp60170.2024.11088185}
-> }
+> @INPROCEEDINGS{11088185,
+> author={Han, ChaeYoon and Lee, NangKyeong and Kim, Jun and Muhammad, Muhammad Afzal and Abbas, Zeeshan and Suwon, SeungWon Lee},
+> booktitle={2025 11th International Conference on Engineering, Applied Sciences, and Technology (ICEAST)},
+> title={TabFuseNet: A Cancer Prediction Model Utilizing Sample Cohort Data},
+> year={2025},
+> volume={},
+> number={},
+> pages={171-174},
+> keywords={Deep learning;Support vector machines;Adaptation models;Predictive models;Feature extraction;Transformers;Data models;Random forests;Medical diagnostic imaging;Cancer;AI;Machine Learning;Deep Learning;Cohort Data},
+> doi={10.1109/ICEAST64767.2025.11088185}}
 > ```
 
 ## ✨ Key Features
@@ -29,20 +29,3 @@ This work was published in:
 * **Enhanced Tabular Learning:** Achieves superior performance compared to existing methods on various tabular datasets.
 * **Robustness:** Demonstrates improved generalization capabilities.
 * **Interpretability (Optional/If applicable):** (Add if the paper discusses interpretability, otherwise remove this point)
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Before running the code, ensure you have the following installed:
-
-* Python 3.x
-* PyTorch (or your deep learning framework)
-* Pandas
-* Scikit-learn
-* (Add any other specific libraries mentioned in the paper's implementation details)
-
-You can install the required packages using pip:
-
-```bash
-pip install torch pandas scikit-learn # Add others as needed
